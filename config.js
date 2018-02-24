@@ -8,5 +8,5 @@ mongo.connect("mongodb://localhost/samplerestapi", function(err, response){
   
 module.exports =db;  
   
-// reactcrud is database name  
-// 192.168.1.71:27017 is your mongo server name  
+// samplerestapi is database name  
+// localhost is your mongo server name  
